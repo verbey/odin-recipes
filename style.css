@@ -1,0 +1,15 @@
+a {
+    font-size: 64px;
+    background-color: yellow;
+    color: black;
+    font-family: "Arial";
+}
+
+a:hover {
+    font-size: 300px;
+}
+
+img:hover {
+    height: 10px;
+    width: 50vw;
+}
